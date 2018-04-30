@@ -9,6 +9,8 @@ a pure python Aho-corasick algorithm implementation
 ========================== 以上是原code的readme ==========================
 
 例子：
+------
+.. code-block:: python
 if __name__ == '__main__':
 	ah = Ahocorasick()
 	ah.addWord(u'测试')
